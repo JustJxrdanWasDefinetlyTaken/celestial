@@ -1,2 +1,2 @@
 # celestial
-Celestial is an AIO website, successor to jordan's math work.
+Celestial is an multi-tooled website, successor to jordan's math work.
