@@ -1,3 +1,2 @@
-.env
 node_modules
-wisp-server-python
+.env

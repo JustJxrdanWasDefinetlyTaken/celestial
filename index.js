@@ -58,7 +58,7 @@ server.on("upgrade", (req, socket, head) => {
   }
 });
 
-server.listen(4141, () => {
-  console.log("running on port 4141 [did unc finally snap?]");
-  console.log("http://localhost:4141");
+server.listen(3000, () => {
+  console.log("running on port 3000");
+  console.log("http://localhost:3000");
 });
