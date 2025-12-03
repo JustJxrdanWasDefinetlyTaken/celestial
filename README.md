@@ -10,3 +10,7 @@
 - 500+ Games
 - Media
 - Scramjet & UV Support
+
+## Credits:
+- Coding4Hours & JustJxrdanWasDefinetlyTaken - site
+- soapphia - tinyjet
