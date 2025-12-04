@@ -5,18 +5,15 @@ body {
     color:white;
     font-family: 'Inter', sans-serif;
     margin:0;
-    height:100vh;
-    display:flex;
-    justify-content:center;
-    align-items:center;
 }
 
 .main {
-    width: 50%;
     display:flex;
     flex-direction:column;
     justify-content:center;
     align-items:center;
+    height:100vh;
+    display:flex;
 }
 
 input.url {
