@@ -15,6 +15,7 @@ document.write(`
     <input placeholder="search 600+ games." />
     <div class="gs"></div>
 </body>
+<script src="/assets/js/newscards.js"></script>
 </html>
 `);
 document.close();

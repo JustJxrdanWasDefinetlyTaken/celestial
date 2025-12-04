@@ -1,0 +1,6 @@
+body[theme="default"] {
+    --background: #000;
+    --color: white;
+    --pallet: #111;
+    --pallet-hover: #181818;
+}
