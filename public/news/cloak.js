@@ -10,9 +10,10 @@ document.write(`
     <title>celestial. | games</title>
     <link rel="shortcut icon" type="image/png" href="/assets/img/logo.png" />
     <link rel="stylesheet" href="/assets/css/home.css" />
+    <link rel="stylesheet" href="/assets/css/edugs.css" />
 </head>
 <body>
-    <input placeholder="search 600+ games." />
+    <input class="textbook" placeholder="search 600+ games." />
     <div class="gs"></div>
 </body>
 <script src="/assets/js/newscards.js"></script>

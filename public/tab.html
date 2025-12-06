@@ -14,10 +14,32 @@
 </head>
 
 <body>
-    <button onclick="newTab()">+</button>
-
-    <div id="tab-bar"></div>
-    <div id="iframes"></div>
+    <div class="main">
+        <h1 id="main">Drew's Learning Academy</h1>
+        <input class="url" placeholder="search for online lessons">
+        <div class="row-thing">
+            <div class="card" id="card" onclick="window.location.href='/news/'">
+                <img src="/assets/img/gms/gms.png" />
+                <p>Contact</p>
+            </div>
+            <div class="card" id="card2" onclick="window.location.href='/support/'">
+                <img src="/assets/img/msg.png" />
+                <p>Questions</p>
+            </div>
+            <div class="card" id="card3" onclick="window.location.href='/news/'">
+                <img src="/assets/img/video.png" />
+                <p>Showcase</p>
+            </div>
+        </div>
+        <footer class="footer">
+            <!--idk why it puts 2 directories soo here we go-->
+            <a class="a2" href="">Phone Number</a>
+            <a style="text-decoration: none;">•</a>
+            <a class="a3" onclick="window.location.href='/legal/'">Enroll Now!</a>
+            <a style="text-decoration: none;">•</a>
+            <a class="a" onclick="window.location.href='/setup/'">Support</a>
+        </footer>
+    </div>
 
     <div style="display:none;">
         <h1>What is Drew's Learning Academy?</h1>
@@ -36,6 +58,5 @@
     </div>
 </body>
 <script src="/assets/js/main.js"></script>
-<script src="/assets/js/tabs.js"></script>
 
 </html>

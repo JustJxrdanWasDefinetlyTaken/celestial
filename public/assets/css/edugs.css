@@ -1,0 +1,6 @@
+.textbook {
+    width:250px;
+    padding: 12px 15px;
+    border-radius: 12px;
+    background: var(--pallet);
+}
